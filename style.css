@@ -180,3 +180,13 @@ h2:last-of-type + p {
         transform: none;
     }
 }
+
+a {
+    color: #2563eb;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
