@@ -6,8 +6,7 @@ I'm interested in Computer Architecture and AI Systems.
 ### To explore:
 Computer Organization;   
 Machine Learning;   
-Operating Systems;   
-Probability and Mathematical Statistics   
+Operating Systems;     
 ......   
 ## content
 The website contains:   
